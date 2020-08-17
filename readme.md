@@ -4,8 +4,11 @@
 ## Warning :
 1. For windows ONLY
 
-2. Make sure you've installed MinGW and created a PATH system variable ( watch video on youtube )
-3. Make sure your codes correct 100%
+2. Make sure you've installed MinGW and created a PATH system variable (watch video on youtube)
+
+3. Make sure your codes correct 100% (must be complied)
+
+4. Because of generating random tests, it not always detects bugs
 
 ## How to use :
 **Step 1 :** Download the file [here](https://codeload.github.com/ryanIsMe/C_Stress_Testing/zip/master "here") 
