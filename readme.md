@@ -18,4 +18,6 @@
 
 **Step 5 :**  Run *run.bat*
 
+Your output is in *ccepted_code.out*, the test case is in *inp.in* and the output of *accepted_code.cpp* is in *accepted_code.out*
+
 ####  To stop generating press CTRL + C then enter Y or y 
