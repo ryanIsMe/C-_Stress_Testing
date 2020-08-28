@@ -1,5 +1,5 @@
 # C/C++ Stress Testing ( for competitive programming )
->An easy script to check whether your code produce an exact answer or not
+>An easy script to check whether your codes produce an exact answer or not
 
 ## Warning :
 1. For windows ONLY
